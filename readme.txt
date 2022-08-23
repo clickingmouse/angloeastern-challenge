@@ -5,6 +5,9 @@ step T minus : configure github
 
 
 step 1 CRA.TS fall back CRA.JS
+https://create-react-app.dev/docs/adding-typescript
+
+
 
 step 2 TDD ; fall back none
 
