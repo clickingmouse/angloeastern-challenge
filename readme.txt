@@ -1,6 +1,9 @@
 https://github.com/angloeastern/frontend-code-challenge
 
 
+step T minus : configure github 
+
+
 step 1 CRA.TS fall back CRA.JS
 
 step 2 TDD ; fall back none
